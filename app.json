@@ -1,6 +1,6 @@
 {
-  "name": "⁠𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐗𝐌𝐃 𝐁𝐎𝐓",
-  "description": "RAHMANI-XMD Whatsapp device bot made by Rahmani Md to help Whatsapp users to enjoy while helping...",
+  "name": "BBOE 𝐁𝐎𝐓",
+  "description": "BBOE-XMD Whatsapp device bot made by BBOE Md to help Whatsapp users to enjoy while helping...",
   "keywords": [
     "bot",
     "node",
@@ -55,7 +55,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "⁠RAHMANI-XMD",
+      "value": "BBOE BOT",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -80,7 +80,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "RAHMANI-XMD",
+      "value": "BBOE BOT",
       "required": false
     },
     "URL": {
@@ -94,8 +94,8 @@
       "required": false  
     },
     "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '255693629079')",
-      "value": "255693629079",
+      "description": "Your phone number (exclude '+' and area code, e.g., '255748723174')",
+      "value": "255748723174",
       "required": false
     },
     "WARN_COUNT": {
